@@ -15,8 +15,7 @@
       <description>Houdiscert registration has been disabled thanks to someone spam creating accounts.</description>
       <content:encoded><![CDATA[
         <h1>Houdiscert Registration Disabled</h1>
-        <p>Recently, the register page on houdiscert.com has been disabled. This is to prevent people from spam creating accounts again. If you would like to create a new account, or if you account was mistakenly deleted in purging the spam accounts, you can email <a href="mailto:houdert6@gmail.com">houdert6@gmail.com</a> or <a href="mailto:houdert6@proton.me">houdert6@proton.me</a> and request an account to be created.</p>
-        <p>This is merely a temporary measure, and it will eventually be replaced with better protections against spam.
+        <p>Recently, the register page on houdiscert.com has been disabled. This is to prevent people from spam creating accounts again. If you would like to create a new account, or if you account was mistakenly deleted in purging the spam accounts, you can email <a href="mailto:houdert6@gmail.com">houdert6@gmail.com</a> or <a href="mailto:houdert6@proton.me">houdert6@proton.me</a> and request an account to be created. This is a temporary measure, and it will eventually be replaced with better protections against spam.</p>
       ]]></content:encoded>
     </item>
 
