@@ -13,11 +13,4 @@
 
 [The Password Manager repository (backend)](https://github.com/houdiscert/password-manager-backend/)
 
-## LynxDC
-[LynxDC](https://lynxdc.houdiscert.com/) was a Discord proxy created for a specific user to access Discord on his school-issued device, which had blocked `discord.com` from being accessed. It is now defunct.
-
-> *LynxDC has no remote repository.*
-
-
-
 > None of the repositories linked here are public. This means you will need to be a member of the [houdiscert organization](https://github.com/houdiscert) to view them.
